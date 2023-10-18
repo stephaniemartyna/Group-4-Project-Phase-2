@@ -1,6 +1,8 @@
 # Architecture Decision Record for Study Planner App
 **Decision Title:** Choice of Navigation Strategy
+
 **Date:** Oct 17, 2023
+
 **Team members:** Matthew Yackel, Sergei Mochalov, Steph Martyna, Martin Contreras
 
 ## Background
