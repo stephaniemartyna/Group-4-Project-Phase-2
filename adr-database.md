@@ -12,19 +12,24 @@ The storage system of the app will define where the data will be processed, wher
 The team has decided on the solution of the SQLite database.
 
 ## Reasoning 
-- **React Native compatibility**
+**React Native compatibility**
+   - 
 
-- **Structured data**
+**Structured data**
+   - 
 
-- **performance**
+**performance**
+   - 
 
-- **lightweight**
+**lightweight**
+   - 
 
-- **FOSS**
+**FOSS**
+   - 
 
 ## Consequences
-- No sync
-- collaboration development complexity
+   - No sync
+   - collaboration development complexity
 
 ## Conclusion
 <!-- NOT FINAL, NEEDS REVISION -->
