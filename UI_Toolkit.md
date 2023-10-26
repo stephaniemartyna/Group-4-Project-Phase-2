@@ -1,6 +1,9 @@
 # Architecture Decision Record for Study Planner App
-**Decision Title:** UI toolkit
+
+**Decision Title:** UI toolkit Selection
+
 **Date:** Oct 17, 2023
+
 **Team members:** Matthew Yackel, Sergei Mochalov, Steph Martyna, Martin Contreras
 
 ## Background
